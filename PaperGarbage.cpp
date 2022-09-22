@@ -2,6 +2,7 @@
 
 void PaperGarbage::squeeze()
 {
+
     isSqueezed = true;
 }
 

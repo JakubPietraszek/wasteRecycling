@@ -15,6 +15,7 @@ public:
 	void throwOutPlasticGarbage(PlasticGarbage plasticGarbage);
 	void emptyContents();
 	bool paperContentIsEmpty();
+	bool plasticContentIsEmpty();
 
 	
 };

@@ -8,5 +8,6 @@ class Dustbin9000 :
     std::vector<Garbage> metalContent;
 public: 
     void throwOutPinkCups(BottleCap);
+    bool isMetalContentEmpty();
 };
 

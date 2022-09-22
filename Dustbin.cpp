@@ -34,3 +34,9 @@ bool Dustbin::paperContentIsEmpty()
 	return paperContent.empty();
 }
 
+bool Dustbin::plasticContentIsEmpty()
+{
+	return plasticContent.empty();
+}
+
+

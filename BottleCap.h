@@ -6,5 +6,6 @@ class BottleCap :
     std::string color;
 public: 
     std::string getColor();
+    void setColor(std::string Color);
 };
 
